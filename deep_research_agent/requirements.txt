@@ -1,0 +1,4 @@
+langgraph
+requests
+dotenv
+langchain-google-genai
